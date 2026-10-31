@@ -6,7 +6,15 @@
     <description>Hugo uses Markdown as its content format. However, there are a lot of things that Markdown doesn’t support well. To overcome those limitations, Hugo created the concept of shortcodes.</description>
     <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://renesugar.github.io/hugo-theme-relearn/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pages</title>
+      <link>https://renesugar.github.io/hugo-theme-relearn/shortcodes/pages/index.html</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://renesugar.github.io/hugo-theme-relearn/shortcodes/pages/index.html</guid>
+      <description>Group, order and list pages of your site</description>
+    </item>
     <item>
       <title>Badge</title>
       <link>https://renesugar.github.io/hugo-theme-relearn/shortcodes/badge/index.html</link>
@@ -22,31 +30,24 @@
       <description>Clickable buttons</description>
     </item>
     <item>
-      <title>Card</title>
-      <link>https://renesugar.github.io/hugo-theme-relearn/shortcodes/card/index.html</link>
+      <title>Callout</title>
+      <link>https://renesugar.github.io/hugo-theme-relearn/shortcodes/callout/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://renesugar.github.io/hugo-theme-relearn/shortcodes/card/index.html</guid>
-      <description>Show content in a card</description>
+      <guid>https://renesugar.github.io/hugo-theme-relearn/shortcodes/callout/index.html</guid>
+      <description>Boxes to help you structure your page</description>
     </item>
     <item>
       <title>Cards</title>
       <link>https://renesugar.github.io/hugo-theme-relearn/shortcodes/cards/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://renesugar.github.io/hugo-theme-relearn/shortcodes/cards/index.html</guid>
-      <description>Show content in a set of cards</description>
+      <description>Show content in cards</description>
     </item>
     <item>
-      <title>Children</title>
-      <link>https://renesugar.github.io/hugo-theme-relearn/shortcodes/children/index.html</link>
+      <title>Details</title>
+      <link>https://renesugar.github.io/hugo-theme-relearn/shortcodes/details/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://renesugar.github.io/hugo-theme-relearn/shortcodes/children/index.html</guid>
-      <description>List the child pages of a page</description>
-    </item>
-    <item>
-      <title>Expand</title>
-      <link>https://renesugar.github.io/hugo-theme-relearn/shortcodes/expand/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://renesugar.github.io/hugo-theme-relearn/shortcodes/expand/index.html</guid>
+      <guid>https://renesugar.github.io/hugo-theme-relearn/shortcodes/details/index.html</guid>
       <description>Expandable/collapsible sections of text</description>
     </item>
     <item>
@@ -85,13 +86,6 @@
       <description>Generate diagrams and flowcharts from text</description>
     </item>
     <item>
-      <title>Notice</title>
-      <link>https://renesugar.github.io/hugo-theme-relearn/shortcodes/notice/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://renesugar.github.io/hugo-theme-relearn/shortcodes/notice/index.html</guid>
-      <description>Boxes to help you structure your page</description>
-    </item>
-    <item>
       <title>OpenAPI</title>
       <link>https://renesugar.github.io/hugo-theme-relearn/shortcodes/openapi/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -111,13 +105,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://renesugar.github.io/hugo-theme-relearn/shortcodes/siteparam/index.html</guid>
       <description>Get value of site params</description>
-    </item>
-    <item>
-      <title>Tab</title>
-      <link>https://renesugar.github.io/hugo-theme-relearn/shortcodes/tab/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://renesugar.github.io/hugo-theme-relearn/shortcodes/tab/index.html</guid>
-      <description>Show content in a single tab</description>
     </item>
     <item>
       <title>Tabs</title>

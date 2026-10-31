@@ -6,7 +6,15 @@
     <description></description>
     <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://renesugar.github.io/hugo-theme-relearn/options/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Option :: Ordersectionsby</title>
+      <link>https://renesugar.github.io/hugo-theme-relearn/options/ordersectionsby/index.html</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://renesugar.github.io/hugo-theme-relearn/options/ordersectionsby/index.html</guid>
+      <description></description>
+    </item>
     <item>
       <title>Option :: Alwaysopen</title>
       <link>https://renesugar.github.io/hugo-theme-relearn/options/alwaysopen/index.html</link>
@@ -47,27 +55,6 @@
       <link>https://renesugar.github.io/hugo-theme-relearn/options/collapsiblemenu/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://renesugar.github.io/hugo-theme-relearn/options/collapsiblemenu/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Option :: CustomMathJaxURL</title>
-      <link>https://renesugar.github.io/hugo-theme-relearn/options/custommathjaxurl/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://renesugar.github.io/hugo-theme-relearn/options/custommathjaxurl/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Option :: CustomMermaidURL</title>
-      <link>https://renesugar.github.io/hugo-theme-relearn/options/custommermaidurl/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://renesugar.github.io/hugo-theme-relearn/options/custommermaidurl/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Option :: CustomOpenapiURL</title>
-      <link>https://renesugar.github.io/hugo-theme-relearn/options/customopenapiurl/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://renesugar.github.io/hugo-theme-relearn/options/customopenapiurl/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -253,10 +240,10 @@
       <description></description>
     </item>
     <item>
-      <title>Option :: EnableLegacyLanguageLinks</title>
-      <link>https://renesugar.github.io/hugo-theme-relearn/options/enablelegacylanguagelinks/index.html</link>
+      <title>Option :: EnableSubresourceIntegrity</title>
+      <link>https://renesugar.github.io/hugo-theme-relearn/options/enablesubresourceintegrity/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://renesugar.github.io/hugo-theme-relearn/options/enablelegacylanguagelinks/index.html</guid>
+      <guid>https://renesugar.github.io/hugo-theme-relearn/options/enablesubresourceintegrity/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -330,6 +317,13 @@
       <description></description>
     </item>
     <item>
+      <title>Option :: Link.underline</title>
+      <link>https://renesugar.github.io/hugo-theme-relearn/options/link.underline/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://renesugar.github.io/hugo-theme-relearn/options/link.underline/index.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Option :: LinkEffects</title>
       <link>https://renesugar.github.io/hugo-theme-relearn/options/linkeffects/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -365,10 +359,10 @@
       <description></description>
     </item>
     <item>
-      <title>Option :: MathJaxInitialize</title>
-      <link>https://renesugar.github.io/hugo-theme-relearn/options/mathjaxinitialize/index.html</link>
+      <title>Option :: Math.toMath</title>
+      <link>https://renesugar.github.io/hugo-theme-relearn/options/math.tomath/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://renesugar.github.io/hugo-theme-relearn/options/mathjaxinitialize/index.html</guid>
+      <guid>https://renesugar.github.io/hugo-theme-relearn/options/math.tomath/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -414,13 +408,6 @@
       <description></description>
     </item>
     <item>
-      <title>Option :: Ordersectionsby</title>
-      <link>https://renesugar.github.io/hugo-theme-relearn/options/ordersectionsby/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://renesugar.github.io/hugo-theme-relearn/options/ordersectionsby/index.html</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Option :: Relearn.dependencies</title>
       <link>https://renesugar.github.io/hugo-theme-relearn/options/relearn.dependencies/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -449,6 +436,13 @@
       <description></description>
     </item>
     <item>
+      <title>Option :: Search.index.json</title>
+      <link>https://renesugar.github.io/hugo-theme-relearn/options/search.index.json/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://renesugar.github.io/hugo-theme-relearn/options/search.index.json/index.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Option :: Search.index.URL</title>
       <link>https://renesugar.github.io/hugo-theme-relearn/options/search.index.url/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -460,6 +454,13 @@
       <link>https://renesugar.github.io/hugo-theme-relearn/options/search.page.disable/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://renesugar.github.io/hugo-theme-relearn/options/search.page.disable/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Option :: Search.page.outputs</title>
+      <link>https://renesugar.github.io/hugo-theme-relearn/options/search.page.outputs/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://renesugar.github.io/hugo-theme-relearn/options/search.page.outputs/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -498,6 +499,13 @@
       <description></description>
     </item>
     <item>
+      <title>Option :: Table.sortable</title>
+      <link>https://renesugar.github.io/hugo-theme-relearn/options/table.sortable/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://renesugar.github.io/hugo-theme-relearn/options/table.sortable/index.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Option :: ThemeVariant</title>
       <link>https://renesugar.github.io/hugo-theme-relearn/options/themevariant/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -505,10 +513,45 @@
       <description></description>
     </item>
     <item>
+      <title>Option :: ThemeVariantPrint</title>
+      <link>https://renesugar.github.io/hugo-theme-relearn/options/themevariantprint/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://renesugar.github.io/hugo-theme-relearn/options/themevariantprint/index.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Option :: TitleSeparator</title>
       <link>https://renesugar.github.io/hugo-theme-relearn/options/titleseparator/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://renesugar.github.io/hugo-theme-relearn/options/titleseparator/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Option :: Topbarend</title>
+      <link>https://renesugar.github.io/hugo-theme-relearn/options/topbarend/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://renesugar.github.io/hugo-theme-relearn/options/topbarend/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Option :: Topbarmiddle</title>
+      <link>https://renesugar.github.io/hugo-theme-relearn/options/topbarmiddle/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://renesugar.github.io/hugo-theme-relearn/options/topbarmiddle/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Option :: Topbarmore</title>
+      <link>https://renesugar.github.io/hugo-theme-relearn/options/topbarmore/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://renesugar.github.io/hugo-theme-relearn/options/topbarmore/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Option :: Topbarstart</title>
+      <link>https://renesugar.github.io/hugo-theme-relearn/options/topbarstart/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://renesugar.github.io/hugo-theme-relearn/options/topbarstart/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -523,27 +566,6 @@
       <link>https://renesugar.github.io/hugo-theme-relearn/options/urlignorecheck/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://renesugar.github.io/hugo-theme-relearn/options/urlignorecheck/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Option :: Version</title>
-      <link>https://renesugar.github.io/hugo-theme-relearn/options/version/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://renesugar.github.io/hugo-theme-relearn/options/version/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Option :: VersionIndexURL</title>
-      <link>https://renesugar.github.io/hugo-theme-relearn/options/versionindexurl/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://renesugar.github.io/hugo-theme-relearn/options/versionindexurl/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Option :: Versions</title>
-      <link>https://renesugar.github.io/hugo-theme-relearn/options/versions/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://renesugar.github.io/hugo-theme-relearn/options/versions/index.html</guid>
       <description></description>
     </item>
   </channel>
